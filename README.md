@@ -5,11 +5,11 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev-Hayotillo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height=200 alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tursunboev-Hayotilla&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height=200 alt="languages graph" />
 
 
-<a href="https://github.com/Tursunboev-Hayotillo/Tursunboev-Hayotillo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tursunboev-Hayotillo&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
+<a href="https://github.com/Tursunboev-Hayotilla/Tursunboev-Hayotilla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tursunboev-Hayotilla&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
 <hr>
 
@@ -71,17 +71,17 @@
 </h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tursunboev-Hayotillo/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Tursunboev-Hayotilla/count.svg?"  />
 </div>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Tursunboev-Hayotillo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Tursunboev-Hayotilla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
   <br/>
  <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tursunboev-Hayotillo&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tursunboev-Hayotilla&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ###
 </div>
